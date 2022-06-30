@@ -1,3 +1,4 @@
+import MakeTBlackL from "./MakeTBlackL"
 
 
 
@@ -12,6 +13,12 @@ const About = () =>{
           </em>
         </strong>
       </p>
+
+      <MakeTBlackL />
+
+      <section>
+        
+      </section>
     </section>
   )
 }

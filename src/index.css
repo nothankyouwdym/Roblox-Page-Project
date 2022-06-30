@@ -41,12 +41,14 @@ body {
 
 #lower{
   position: relative;
-  top: 100px;
+  top: 50px;
   display: inline-flex;
   margin: 10px;
 }
 
 #lower-text{
+  position: relative;
+  bottom: 70px;
   margin: 85px;
 }
 
@@ -57,7 +59,7 @@ body {
 #lower-links-first{
   position: relative;
   margin: 10px;
-  top: 10px;
+  top: 15px;
 }
 
 /**
@@ -404,6 +406,16 @@ body {
   color: #404040;
   background: grey;
   font-size: 1rem;
+}
+
+#tbl{
+  background: #404040;
+  text-align: center;
+  width: 900rem;
+  height: 1px;
+  color: #404040;
+  position: relative;
+  right: 100px;
 }
 
 p,
