@@ -425,6 +425,14 @@ h5 {
   right: 7rem;
 }
 
+#play{
+  background-color: green;
+  border-radius: 10px;
+  width: 200px;
+  position: relative;
+  right: 50px;
+}
+
 h1:not(:first-child),
 h2:not(:first-child),
 h3:not(:first-child),
