@@ -42,6 +42,7 @@ body {
 #lower{
   position: relative;
   top: 100px;
+  display: flex;
 }
 
 /**
