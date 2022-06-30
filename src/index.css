@@ -42,8 +42,12 @@ body {
 #lower{
   position: relative;
   top: 100px;
-  display: flex;
+  display: inline-flex;
   margin: 10px;
+}
+
+#lower-text{
+  margin: 85px;
 }
 
 #lower-links{

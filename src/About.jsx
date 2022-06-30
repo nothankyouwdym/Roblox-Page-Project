@@ -4,7 +4,7 @@
 const About = () =>{
   return(
     <section>
-      <p>
+      <p id="lower-text">
         <strong>
           <em>
             Me the best the way oh he;;;; nah fhjwfdhjksfhskfjfhdhfdsj
