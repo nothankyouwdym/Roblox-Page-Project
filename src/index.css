@@ -55,7 +55,9 @@ body {
 }
 
 #lower-links-first{
+  position: relative;
   margin: 10px;
+  top: 10px;
 }
 
 /**
