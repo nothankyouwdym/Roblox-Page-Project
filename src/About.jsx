@@ -16,8 +16,12 @@ const About = () =>{
 
       <MakeTBlackL />
 
-      <section>
-        
+      <section id="about-low">
+        <h1>Active</h1>
+        <h4 id="about-low-number">1M</h4>
+
+        <h1>Active</h1>
+        <h4 id="about-low-number">1M</h4>
       </section>
     </section>
   )
