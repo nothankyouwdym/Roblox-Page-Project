@@ -7,6 +7,7 @@ import Sidebar from "./Sidebar"
 const App = () =>{
   return(
     <section>
+      <h1>Rebbit</h1>
       <Sidebar />
       <LowerComponent />
       <Outlet />
