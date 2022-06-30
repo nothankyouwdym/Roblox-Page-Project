@@ -433,6 +433,10 @@ h5 {
   right: 50px;
 }
 
+#play-link{
+  color: red;
+}
+
 h1:not(:first-child),
 h2:not(:first-child),
 h3:not(:first-child),
