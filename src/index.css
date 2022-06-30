@@ -43,6 +43,11 @@ body {
   position: relative;
   top: 100px;
   display: flex;
+  margin: 10px;
+}
+
+#lower-links{
+  margin: 10px;
 }
 
 /**
