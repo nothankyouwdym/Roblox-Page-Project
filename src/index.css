@@ -42,6 +42,7 @@ body {
 #about-low-number{
   position: relative;
   left: 20px;
+  bottom: 50px;
 }
 
 #lower{
@@ -62,6 +63,7 @@ body {
 
 
 #about-low{
+  display: flex;
   text-align: left;
 }
 
