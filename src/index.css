@@ -36,6 +36,12 @@ body {
   text-align: center;
   font-family: cursive,cursive;
   margin: 0;
+  display: inline-flexbox;
+}
+
+#lower{
+  position: relative;
+  top: 100px;
 }
 
 /**
