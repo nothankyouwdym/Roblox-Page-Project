@@ -7,7 +7,7 @@ const About = () =>{
       <p id="lower-text">
         <strong>
           <em>
-            Me the best the way oh he;;;; nah fhjwfdhjksfhskfjfhdhfdsj
+            Hey, welcome to the funny game l ratio it um do the stuff that do the thingy hhahahahhahahahahahaahahah.
           </em>
         </strong>
       </p>
