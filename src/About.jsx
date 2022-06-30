@@ -7,7 +7,7 @@ const About = () =>{
       <p>
         <strong>
           <em>
-            Me
+            Me the best the way oh he;;;; nah fhjwfdhjksfhskfjfhdhfdsj
           </em>
         </strong>
       </p>
