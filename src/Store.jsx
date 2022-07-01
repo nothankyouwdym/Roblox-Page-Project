@@ -8,6 +8,7 @@ const Store = () =>{
 
       <MakePass name={"2X Cash"}/>
       <MakePass name={"2X Experiance"}/>
+      <MakePass name={"Getting Better"} />
     </section>
   )
 }
