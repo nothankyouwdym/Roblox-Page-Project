@@ -39,6 +39,15 @@ body {
   display: inline-flexbox;
 }
 
+#Pass{
+  display: inline-block;
+  margin: 50px;
+}
+
+#Pass button{
+  border-radius: 150px;
+}
+
 #about-low-number{
   position: relative;
   left: 20px;

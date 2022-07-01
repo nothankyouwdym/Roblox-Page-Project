@@ -3,8 +3,9 @@
 
 const MakePass = (props) =>{
   return(
-    <section>
+    <section id="Pass">
       <h1>{props.name}</h1>
+      <button>Buy</button>
     </section>
   )
 }
