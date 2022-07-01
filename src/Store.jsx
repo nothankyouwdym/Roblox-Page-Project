@@ -6,7 +6,7 @@ const Store = () =>{
     <section>
       <h1>Passes</h1>
 
-      <MakePass />
+      <MakePass name={"2X Cash"}/>
     </section>
   )
 }

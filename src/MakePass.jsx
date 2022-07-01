@@ -1,10 +1,10 @@
 
 
 
-const MakePass = () =>{
+const MakePass = (props) =>{
   return(
     <section>
-      <h1>Pass</h1>
+      <h1>{props.name}</h1>
     </section>
   )
 }
